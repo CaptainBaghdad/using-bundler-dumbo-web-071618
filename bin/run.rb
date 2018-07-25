@@ -1,4 +1,4 @@
-gem 'Hashie'
+Hashie
 Sinatra
 Octokit
 Pry
